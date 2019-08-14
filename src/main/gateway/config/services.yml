@@ -1,0 +1,10 @@
+CICD/kevinSpeaksAgain:
+  url: "/ks1"
+  policy: "CICD/kevinSpeaksAgain"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
+  wssProcessingEnabled: false
